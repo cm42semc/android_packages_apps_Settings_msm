@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="bluetooth_mas_request">Üzenethozzáférés</string>
     <string name="bluetooth_mas_acceptance_dialog_text">"A(z) %1$s szeretne hozzáférni az üzeneteihez. Megadja a hozzáférést a(z) %2$s eszköznek?"</string>
     <string name="bluetooth_mas_remember_choice">Ne jelenjen meg többé</string>
@@ -588,7 +587,7 @@
     <string name="auto_brightness_reset_confirmation">Biztosan vissza kívánja állítani az összes fényerőszintet alaphelyzetbe?</string>
     <string name="auto_brightness_split_lux_format">Állítsa be az értéket <xliff:g id="min">%1$d</xliff:g> - <xliff:g id="max">%2$d</xliff:g> lux között</string>
     <string name="auto_brightness_level_options">Fényerőszint beállításai</string>
-    <string name="auto_brightness_menu_edit_lux">Szerkesztés</string>
+    <string name="auto_brightness_menu_edit">Szerkesztés</string>
     <string name="auto_brightness_menu_split">Felosztás</string>
     <string name="auto_brightness_menu_remove">Eltávolítás</string>
     <string name="auto_brightness_preview">Megtekintés</string>

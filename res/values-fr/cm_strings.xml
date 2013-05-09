@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2012-2013 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,8 +12,7 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
- -->
-
+-->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="bluetooth_mas_request">Demande d\'accès aux messages</string>
     <string name="bluetooth_mas_acceptance_dialog_text">%1$s souhaite accéder à vos messages. Donner l\'accès à %2$s\u00A0?</string>
@@ -599,7 +598,6 @@
     <string name="auto_brightness_reset_confirmation">Tous les niveaux de luminosité seront réinitialisés à leurs réglages par défaut.</string>
     <string name="auto_brightness_split_lux_format">Position de coupure (entre <xliff:g id="min">%1$d</xliff:g> et <xliff:g id="max">%2$d</xliff:g> lux)</string>
     <string name="auto_brightness_level_options">Options de niveau de lumière</string>
-    <string name="auto_brightness_menu_edit_lux">Plage de luminosité ambiante</string>
     <string name="auto_brightness_menu_split">Diviser</string>
     <string name="auto_brightness_menu_remove">Supprimer</string>
     <string name="auto_brightness_preview">Prévisualiser</string>
@@ -613,7 +611,7 @@ Pour vous aider, un aperçu de la courbe calculée peut être examiné. Noter qu
 <b>Comment éditer la courbe de luminosité\u00A0?</b>
 \n\n
 Chaque ligne de la liste correspond à un <i>point de contrôle</i> de la courbe de luminosité. Pour modifier le niveau de luminosité d\'un point, vous pouvez utiliser le curseur présent sur chaque ligne. Lorsque vous toucherez le curseur, la luminosité de l\'écran sera modifiée en conséquence pour prévisualiser le niveau de lumière.\n
-Des options supplémentaires sont disponibles en appuyant longtemps sur une ligne. En sélectionnant \'Ajuster\', vous pouvez modifier le niveau du point de contrôle de luminosité ambiante ou saisir manuellement la luminosité de l\'écran désirée. En sélectionnant \'Diviser\' vous pouvez séparer une ligne en deux afin d\'insérer des points de contrôle supplémentaires. Enfin, \'Supprimer\' efface la ligne sélectionnée.
+Des options supplémentaires sont disponibles en appuyant longtemps sur une ligne. En sélectionnant \'Edit\', vous pouvez modifier le niveau du point de contrôle de luminosité ambiante ou saisir manuellement la luminosité de l\'écran désirée. En sélectionnant \'Diviser\' vous pouvez séparer une ligne en deux afin d\'insérer des points de contrôle supplémentaires. Enfin, \'Supprimer\' efface la ligne sélectionnée.
     </string>
     <string name="advanced_reboot_title">Redémarrage avancé</string>
     <string name="advanced_reboot_summary">Inclure les options de redémarrage en mode recovery et bootloader dans le menu marche/arrêt lorsque l\'appareil est déverrouillé</string>

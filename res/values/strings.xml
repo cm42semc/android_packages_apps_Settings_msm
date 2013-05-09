@@ -241,6 +241,8 @@
     <string name="bluetooth_visibility_timeout">Visibility timeout</string>
     <!-- Bluetooth settings screen, Discoverable timout list dialog summary text -->
     <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
+    <!-- Bluetooth settings screen, option name to pick discoverability timeout duration (a list dialog comes up) -->
+    <string name="bluetooth_visibility_timeout">Visibility timeout</string>
     <!-- Bluetooth settings screen, check box label whether or not to allow
         bluetooth voice dialing when lock screen is up-->
     <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
